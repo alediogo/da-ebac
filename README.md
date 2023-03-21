@@ -1,2 +1,2 @@
 # da-ebac
-Projetos do curso de análise de dados Ebac
+Esse é o meu repositório de projetos do curso de análise de dados Ebac
